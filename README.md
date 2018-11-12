@@ -24,9 +24,9 @@ You can classify query sequences based on context tree models by running nascups
 ## Data
 For the datasets we used in the paper can be downloaded as follows:
 ```
-wget https://data.snu.ac.kr/nascup/data/FILENAME.tar.gz
+wget https://data.snu.ac.kr/nascup/data/[FILENAME].tar.gz
 ```
-<FILENAME> are b_RF, b_RD, b_GG, b_SS, b_SL, b_AR, b_DV, 10BGG for RF, RD, GG, SS, SL, AR, DV, BGG dataset, respectively.
+[FILENAME] are b_RF, b_RD, b_GG, b_SS, b_SL, b_AR, b_DV, 10BGG for RF, RD, GG, SS, SL, AR, DV, BGG dataset, respectively.
 
 
 ## Citing
